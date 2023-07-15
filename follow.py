@@ -6,7 +6,6 @@ from PIL import ImageFont
 import shutil
 from PIL import ImageDraw
 import time
-from instabot import Bot
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import random
